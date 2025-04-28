@@ -40,7 +40,7 @@ Antes de qualquer coisa, você precisará ter instalado o Go em seu S.O.
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:vtoretto/go.git
+$ git clone git@github.com:vtoretto/Go.git
 
 # Acesse o diretório do projeto
 $ cd go
